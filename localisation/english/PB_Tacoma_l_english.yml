@@ -1,0 +1,85 @@
+﻿l_english:
+
+TAC_Leonard_Wood_Desc:0 "§YBorn:§! 10/9/1860\n\n§LLeonard Wood§! one of the young recruits of the American Confederation during the Nation's Unilateral Declaration of Independence, Leonard Wood has been here since the very birth of the nation. Though under no circumstance is he the Father of it. One of the primary military leaders against the Northwestern Territories during the Seattle War, Wood would show a zealous amount of Patriotism:full heartedly defending his nation not only in battle, but also in word-valiantly defending his nation in all aspects of life. Though, unfortunately, the young Confederation would not endure this war. Following this, facing several secession movement and rebellions. The Confederation would techincally cease to exist, though through Leonard Wood's Coup d'etat and declaring marshall law, the ideals and dreams of the Confederation would live on through New Virginia. However, that was nearly two decades ago and Leonard Wood's age is showing, and many are wary about the rising force of the Radicals in the State of New Virginia. "
+
+
+ ##########################
+  # TOP BAR
+  ##########################
+  
+  ##########################
+  
+  TAC_rc_party_long:0 "Sons of Liberty and Freedom-Continental Army"
+  TAC_rc_party:0 "SLF-Continental Army"
+  TAC_jc_party_long:0 "Sons of Liberty and Freedom-American Liberation Front"
+  TAC_jc_party:0 "SLF-ALF"
+  TAC_cn_party_long:0 "Sons of Liberty and Freedom-Freemasons" 
+  TAC_cn_party:0 "SLF-Freemasons"     
+  TAC_lb_party_long:0 "Sons of Liberty and Freedom-Libertarians"
+  TAC_lb_party:0 "SLF-Libertarians"
+  TAC_an_party_long:0 "Trekker Forever Party-Jacksonians"
+  TAC_an_party:0 "TFP-Jacksonians"
+  TAC_ss_party_long:0 "Trekker Forever Party-Portland Progressive Party"
+  TAC_ss_party:0 "TFP-Progressives"
+  TAC_ni_party_long:0 "New Sons of Liberty-Cabalists"
+  TAC_ni_party:0 "NSL-Cabalists"
+  TAC_ds_party_long:0 "Trekker Forever Party"
+  TAC_ds_party:0 "TFP"
+  
+##########################
+
+    TAC_Country_Desc_Topbar:0 "§YFeatures:§!\n    - Put down Nativist Sentiment or grow them \n    - Bring forth a more perfect Union on the North American Continent \n    - Deal with a new threat coming West \n    - Bring about the ideals of Manifest Destiny\n\n§YThe State of New Virginia§! would not be officially declared until 1876 as the American Confederation,the people of this fledgling nation would have their own history all the way back to the end of the First American Rebellion during the 1770s.\n\n The settlements of the surrounding area of Portland would truly be founded by numerable failed soldiers and veterans of the Continental Army. Many hoping to flee the long stretching arm of British Rule. \n\nThough the lands of the current New Virginia and Portland would eventually be claimed by the British The failures of the Parliamentary and Imperial Government to properly deal with the the Plains Brush Rebellion, would set forth the fate of the Portland provinces Unilaterally declaring Independence from the Imperial governances, utilizing many of the ideas put forth by names such as Thomas Paine, John Adams, James Madison, and of course George Washington.\n\n Through this Declaration of Independence, the nation would eventually become a vast refuge for political dissidents and the many over the American Continent who would seek to North American continent who would seek to free the nation of Imperial Governance.\n\n Though with nation having a continuous influx of radicals, alongside the Sons of Liberty attempting claim the Seattle Area, against the Novorussian settlements. The nation would find itself losing this war, only to much dismay and anger of the Radical Populace. The nation faced several revolts in the Libertalian and souther New Virginian states, such as the secession of the New Walden, Meizhou and Freedonia; the fledgling nation declared a state of crisis, and General of the Continental Army, Leonard Wood declared Martial Law; temporarily hoping to restore order to the last remaining state of the state of New Virginia\n\nHowever, Leonard Wood's age is catching up to him, and it is uknown who will succeed him as Commander and Chief of New Virginia. Leonard Wood, not necessarily putting forth a true successor, however, a large protest dedicated from the Cabalists of the New Sons of Liberty, would allow for a spokesperson to be announced Co-Commander and Chief/Vice President Robert Wood, though several figures in other branches of the Sons of Liberty and Freedom would hope to see a different person succeed them causing much rift in the echelons of the State of New Virginia, allowing for an uncertain to be seen ahead for the nation. \n\ §YNew Virginia§! shall defend its Liberty! \n\n §YSpecial thanks to§!:Sprinkleskid, Tapir, Gabgame, Nohan, Two Watt, Grixly, and all others in the Pax team who provided the means to create this submod\n\n\n"
+
+  ##########################
+  ###National Spirits###
+  PB_TAC_Memories_Of_Seattle_War:0 "Memories of The Seattle War"
+  PB_TAC_Memories_Of_Seattle_War_desc:0 "New Virginia wasn't always the rump state it is today. Before it was previously known as the American Confederation and it controlled much of the lands of the American West. However, less than two decades ago the nation's natural agressiveness would allow itself to become at war with the Northwest Pacific Territories over the Seattle area. The war would ultimately end in failure for the young American Nation, and would lead to several of its member states declaring independence-from Tabernacle to Freedonia, and would ultimately lead to the end of the Confederation. This failure to conquer the area would ultimately lead to one failure after another, and lead to scars that New Virginia feel to this day."
+  PB_TAC_Failed_Experiment:0 "The Failed Experiment"
+  PB_TAC_Failed_Experiment_desc:0 "The ideals established the founders of the American Confederation and New Virginia-holding the lands of North America as their ultimate destiny. With the complete and utter collapse of the former nation, would show that the dreams of this nation to ultimately become a nightmare."
+  PB_TAC_Last_Revolt:0 "The Last Revolt"
+  PB_TAC_Last_Revolt_desc:0 "The Trekker Forever Party, or the nativists branch of the State of New Virginia, is very much viewed as the last secession effort of the former American Confederation. As long as they're still an established resistance against our nation any goals of fully reestablishing any sort of order will have to be put on the standby."
+  PB_TAC_Country_Radicals:0 "Country of Radicals"
+  PB_TAC_Country_Radicals_desc:0 "Ever since our Declaration of Independence in 1876, our nation has been a vast inclusive safe haven of radicals throughout the entire North American Continent-most keyly featuring thousands of those who would seek a life against Imperial Rule(or even those who would seek to put and end to it all together) However, though this idea of a haven has brought several who would wish to take up arms against the Imperial Crown, it would also bring forth ideas and other motives that would seem unsavory towards those who would seek to maintain more liberal and free notions."
+  ###Minister###
+  TAC_Robert_Wood_HOG:0 "Robert Wood"
+  TAC_Hanford_Macnider_FM:0 "Hanford Macnider"
+  TAC_Robert_Mccormick_EM:0 "Robert Mccormick"
+  TAC_Robert_Minor_IM:0 "Robert Minor"
+  ###National Focuses###
+    ###Military Focuses###
+    TAC_Modernize_Continental_Army:0 "Modernize the Continental Army"
+    TAC_Cleaning_Up_Seattle_Nightmare:0 "Cleaning Up the Nightmare of Seattle"
+    TAC_Columbias_Call:0 "Columbia's Call"
+    TAC_Freedom_Price:0 "The Price of Freedom"
+    TAC_Vacant_Ranks:0 "Fill the Vacant Ranks"
+    TAC_Calling_SOL:0 "Calling Every Son of Liberty"
+    TAC_Rebuild_Navy:0 "Rebuilding the 2nd Continental Navy"
+    TAC_Patriots_One_All:0 "Patriots One and All"
+    TAC_Nations_Bounty:0 "Our Nation's Bounty"
+    TAC_Reviving_Colossus:0 "Reviving a Colossus"
+    TAC_Eagle_Soars:0 "The Eagle Soars"
+    TAC_Columbia_Reborn:0 "Columbia Reborn"
+    TAC_Refurbish_Fort_Washington:0 "Refurbishing Fort Washington"
+    TAC_Renaissance_Catchup:0 "Catching up to Other 2nd Renaissance Armies"
+    TAC_Second_To_None:0 "Second to None"
+    TAC_Wulfpads_Runways:0 "Wulfpads and Runways"
+    TAC_Revolution_High_Seas:0 "Revolution on the High Seas"
+    TAC_Project_Atlas:0 "PROJECT: §RATLAS§!"
+        TAC_Project_Atlas_desc:0 "While the ideals of the Marines have been at the center of our Nation even before its founding.\n\nIt is unfeasable to believe that the reconquest of the American Federation and the rest of America - over mountains and deserts - can be relied on a bunch of soldiers specialized in Marine Warfare. \n\nWith such realization during our Modernization efforts, a clique of Fort Washington's Military Researchers have suggested utilizing the advancments in researching the Russian Advancements of Powersuits to advance our Military Might."
+    TAC_Wild_Blue_Yonder:0 "Into the Wild Blue Yonder"
+    TAC_Continental_Air_Cavalry:0 "Authorize the Creation of the Continental Air Cavalry"
+    TAC_Project_Bigsky:0 "PROJECT: §CBIGSKY§!"
+        TAC_Project_Bigsky_desc:0 "The skies of North America are free for the taking. \n\nWhile the British Empire may hold grasp on the Oceans, and the Russian Empire may hold domain over the Lands. It is us who would hold the skies as our domain. \n\nIt is highly believed that this development would be able to provide an opening into an entirely new front, capable of striking our enemies from the backlines. Creating fear and chaos among our foes. "
+    TAC_Project_Bluewater:0 "PROJECT: §BBLUEWATER§!"
+        TAC_Project_Bluewater_desc:0 "The American Confederation Marines have long been the very backbone of our elite professional soldiers. \n\nThis group of professional soldiers have been proved as our very vital in our independence - even going forth to being a very symbol of our Nation's Pride and Spirit of Independence and its defense. \n\nWith such a belief, Field Marshall Daniel Daly has proposed that instead of replacing the Marines with Hardsuit Division, to instead completely overhaul their training to be capable in successfully being capable in matching the necessary feats we may face in reconquering North America. \n\n§B"COME ON YOU SONS OF BITCHES, DO YOU WANT TO LIVE FOREVER"§!"
+    TAC_Anchors_Aweigh:0 "Anchors Aweigh"
+    TAC_JP_Jones_Spirit:0 "Spirit of John Paul Jones"
+    TAC_Deadliest_Weapon:0 "Deadliest Weapon on Earth"
+    TAC_Project_Songbird:0 "PROJECT: §PSONGBIRD§!"
+        TAC_Project_Songbird_desc:0 "A very radical and experimental in developing and modernizing our army is to allow for the development of Psionics within our division. \n\nProject Songbird aims to explore and harness psionic abilities—mental powers such as telepathy, telekinesis, and precognition—which could potentially revolutionize intelligence gathering, battlefield control, and psychological operations. While the concept of psionics has long been associated with science fiction, recent advancements in neuroscience and quantum physics have reignited interest in these phenomena.\n\nPerhaps with this development, the nation will have an edge against even the Empire in Britain. \n\nProvided it works..."
+    TAC_Supply_Liberty:0 "Supplying Liberty's Arms"
+    TAC_Fuel_Fire:0 "Adding Fuel to the Fire"
+    TAC_Refuel_Mil_Complex:0 "Refueling the Military Complex"
+    TAC_Revolution_Not_Finished:0 "A Revolution Not Quite Finished"
+    TAC_Wake_West:0 "Wake the West"
+    TAC_True_Brave:0 "The True and Brave"

@@ -1,0 +1,1073 @@
+focus_tree = {
+	id = tacoma_focus
+	
+	country = {
+		factor = 0
+
+		modifier = {
+			add = 10
+			tag = TAC
+		}
+
+	}
+	
+	default = no
+
+	continuous_focus_position = { x = 0 y = 3000 }
+
+	focus = {
+		id = TAC_Twilights_Last_Gleaming
+		icon = GFX_goal_
+		x = 50
+		y = 0
+		cost = 8
+
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}
+
+	focus = {
+		id = TAC_Coup_To_Save_America
+		icon = GFX_goal_
+		x = 50
+		y = 1
+		cost = 8
+prerequisite = { focus = TAC_Twilights_Last_Gleaming }
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}
+	
+	focus = {
+		id = TAC_Peace_Order_Security
+		icon = GFX_goal_
+		x = 50
+		y = 2
+		cost = 8
+prerequisite = { focus = TAC_Coup_To_Save_America }
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}
+	
+	focus = {
+		id = TAC_State_of_Emergency
+		icon = GFX_goal_
+		x = 50
+		y = 3
+		cost = 8
+prerequisite = { focus = TAC_Peace_Order_Security }
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}	
+	
+	focus = {
+		id = TAC_Admitting_Our_Failures
+		icon = GFX_goal_
+		x = 48
+		y = 1
+		cost = 8
+prerequisite = { focus = TAC_Twilights_Last_Gleaming }
+mutually_exclusive = {focus = TAC_Coup_To_Save_America}
+mutually_exclusive = {focus = TAC_Last_Fight_Against_dream}
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}
+
+	focus = {
+		id = TAC_Last_Chance_Salvation
+		icon = GFX_goal_
+		x = 48
+		y = 2
+		cost = 8
+prerequisite = { focus = TAC_Admitting_Our_Failures }
+
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}
+	
+		focus = {
+		id = TAC_Portland_Statehood
+		icon = GFX_goal_
+		x = 48
+		y = 3
+		cost = 8
+prerequisite = { focus = TAC_Last_Chance_Salvation }
+
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}
+		focus = {
+		id = TAC_Freedom_Saved
+		icon = GFX_goal_
+		x = 46
+		y = 4
+		cost = 8
+prerequisite = { focus = TAC_Portland_Statehood }
+
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}
+	
+		focus = {
+		id = TAC_Last_Fight_Against_dream
+		icon = GFX_goal_
+		x = 52
+		y = 1
+		cost = 8
+prerequisite = { focus = TAC_Twilights_Last_Gleaming }
+mutually_exclusive = {focus = TAC_Coup_To_Save_America}
+mutually_exclusive = {focus = TAC_Admitting_Our_Failures}
+
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}
+
+		focus = {
+		id = TAC_Portland_Proclamation
+		icon = GFX_goal_
+		x = 52
+		y = 2
+		cost = 8
+prerequisite = { focus = TAC_Last_Fight_Against_dream }
+
+
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}
+
+		focus = {
+		id = TAC_Save_Homes_Families_Lives
+		icon = GFX_goal_
+		x = 52
+		y = 3
+		cost = 8
+prerequisite = { focus = TAC_Portland_Proclamation }
+
+
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}
+	
+		focus = {
+		id = TAC_Shining_City_Hill
+		icon = GFX_goal_
+		x = 54
+		y = 4
+		cost = 8
+prerequisite = { focus = TAC_Save_Homes_Families_Lives }
+
+
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}	
+###Focus Tree Start###	
+	focus = {
+		id = TAC_Patriotism_Not_Extinguished
+		icon = GFX_goal_
+		x = 50
+		y = 4
+		cost = 8
+prerequisite = { focus = TAC_State_of_Emergency }
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}
+
+	focus = {
+		id = TAC_Ashes_Of_Libertalian_Rebellions
+		icon = GFX_goal_
+		x = 50
+		y = 5
+		cost = 8
+prerequisite = { focus = TAC_Patriotism_Not_Extinguished }
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}
+
+	focus = {
+		id = TAC_One_Last_Light
+		icon = GFX_goal_
+		x = 40
+		y = 6
+		cost = 8
+prerequisite = { focus = TAC_Ashes_Of_Libertalian_Rebellions }
+mutually_exclusive = { focus = TAC_One_Last_Fight}
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}
+	
+		focus = {
+		id = TAC_Sheep_Wolves_Clothing
+		icon = GFX_goal_
+		x = 38
+		y = 7
+		cost = 8
+prerequisite = { focus = TAC_One_Last_Light }
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}
+
+		focus = {
+		id = TAC_Rally_Countryside
+		icon = GFX_goal_
+		x = 42
+		y = 7
+		cost = 8
+prerequisite = { focus = TAC_One_Last_Light }
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}
+	
+			focus = {
+		id = TAC_Sowing_Disunity
+		icon = GFX_goal_
+		x = 38
+		y = 9
+		cost = 8
+prerequisite = { focus = TAC_Sheep_Wolves_Clothing }
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}
+	
+				focus = {
+		id = TAC_Dusting_Portland_Proclamation
+		icon = GFX_goal_
+		x = 42
+		y = 9
+		cost = 8
+prerequisite = { focus = TAC_Rally_Countryside }
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = TAC_Revolution_Against_Revolution
+		icon = GFX_goal_
+		x = 40
+		y = 8
+		cost = 8
+prerequisite = { focus = TAC_Sheep_Wolves_Clothing focus = TAC_Rally_Countryside }
+
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}	
+	
+	focus = {
+		id = TAC_Maynard_Proposal
+		icon = GFX_goal_
+		x = 40
+		y = 9
+		cost = 8
+prerequisite = { focus = TAC_Revolution_Against_Revolution}
+
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}	
+	
+	focus = {
+		id = TAC_True_Nat_Identity
+		icon = GFX_goal_
+		x = 40
+		y = 10
+		cost = 8
+prerequisite = { focus = TAC_Sowing_Disunity}
+prerequisite = { focus = TAC_Maynard_Proposal}
+prerequisite = { focus = TAC_Dusting_Portland_Proclamation}
+
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}	
+###New Virginia-non Trekker Focuses###
+	focus = {
+		id = TAC_One_Last_Fight
+		icon = GFX_goal_
+		x = 50
+		y = 6
+		cost = 8
+prerequisite = { focus = TAC_Ashes_Of_Libertalian_Rebellions }
+mutually_exclusive = { focus = TAC_One_Last_Light}
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}	
+	focus = {
+		id = TAC_Never_Extinguished
+		icon = GFX_goal_
+		x = 50
+		y = 7
+		cost = 8
+prerequisite = { focus = TAC_One_Last_Fight }
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}
+
+	focus = {
+		id = TAC_Kick_Door
+		icon = GFX_goal_
+		x = 50
+		y = 8
+		cost = 8
+prerequisite = { focus = TAC_Never_Extinguished }
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}	
+	
+	focus = {
+		id = TAC_Towner_Help
+		icon = GFX_goal_
+		x = 50
+		y = 9
+		cost = 8
+prerequisite = { focus = TAC_Kick_Door }
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}
+
+	focus = {
+		id = TAC_Mobilize_Culper
+		icon = GFX_goal_
+		x = 48
+		y = 7
+		cost = 8
+prerequisite = { focus = TAC_One_Last_Fight }
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}
+
+	focus = {
+		id = TAC_Plant_TFP
+		icon = GFX_goal_
+		x = 48
+		y = 8
+		cost = 8
+prerequisite = { focus = TAC_Mobilize_Culper }
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}
+
+	focus = {
+		id = TAC_Route_Traitors
+		icon = GFX_goal_
+		x = 48
+		y = 9
+		cost = 8
+prerequisite = { focus = TAC_Plant_TFP }
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}
+
+
+	focus = {
+		id = TAC_This_Well_Defend
+		icon = GFX_goal_
+		x = 54
+		y = 7
+		cost = 8
+prerequisite = { focus = TAC_One_Last_Fight }
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}	
+	
+	focus = {
+		id = TAC_Offer_Amnesty
+		icon = GFX_goal_
+		x = 52
+		y = 8
+		cost = 8
+prerequisite = { focus = TAC_This_Well_Defend }
+mutually_exclusive = { focus = TAC_Lewis_Geraniums}
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}	
+	
+	focus = {
+		id = TAC_Lewis_Geraniums
+		icon = GFX_goal_
+		x = 56
+		y = 8
+		cost = 8
+prerequisite = { focus = TAC_This_Well_Defend }
+prerequisite = { focus = TAC_Renaissance_Catchup }
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}
+
+	focus = {
+		id = TAC_Unity_Any_Cost
+		icon = GFX_goal_
+		x = 54
+		y = 9
+		cost = 8
+prerequisite = { focus = TAC_Offer_Amnesty focus = TAC_Lewis_Geraniums }
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}	
+	
+	focus = {
+		id = TAC_Tune_Sung_Together
+		icon = GFX_goal_
+		x = 50
+		y = 10
+		cost = 8
+prerequisite = { focus = TAC_Route_Traitors }
+prerequisite = { focus = TAC_Towner_Help }
+prerequisite = { focus = TAC_Unity_Any_Cost }
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}
+###Military Focuses###
+
+		focus = {
+		id = TAC_Modernize_Continental_Army
+		icon = GFX_goal_TAC_Modernize_Continental_Army
+		x = 74
+		y = 4
+		cost = 8
+
+
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}
+
+		focus = {
+		id = TAC_Cleaning_Up_Seattle_Nightmare
+		icon = GFX_goal_TAC_Cleanup_Seattle
+		x = 74
+		y = 5
+		cost = 8
+prerequisite = {focus = TAC_Modernize_Continental_Army}
+
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}
+
+		focus = {
+		id = TAC_Columbias_Call
+		icon = GFX_goal_TAC_Columbias_Call
+		x = 74
+		y = 6
+		cost = 8
+prerequisite = {focus = TAC_Cleaning_Up_Seattle_Nightmare}
+
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}	
+	
+		focus = {
+		id = TAC_Freedom_Price
+		icon = GFX_goal_TAC_Freedom_Price
+		x = 72
+		y = 7
+		cost = 8
+prerequisite = {focus = TAC_Columbias_Call}
+mutually_exclusive = {focus = TAC_Vacant_Ranks}
+
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}
+
+		focus = {
+		id = TAC_Vacant_Ranks
+		icon = GFX_goal_TAC_Fill_Vacant_Ranks
+		x = 76
+		y = 7
+		cost = 8
+prerequisite = {focus = TAC_Columbias_Call}
+mutually_exclusive = {focus = TAC_Price_Freedom}
+
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}
+
+		focus = {
+		id = TAC_Calling_SOL
+		icon = GFX_goal_TAC_Calling_SOL
+		x = 74
+		y = 8
+		cost = 8
+prerequisite = {focus = TAC_Price_Freedom focus = TAC_Vacant_Ranks}
+
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}
+
+		focus = {
+		id = TAC_Rebuild_Navy
+		icon = GFX_goal_TAC_Rebuild_Continental_Navy
+		x = 74
+		y = 9
+		cost = 8
+prerequisite = {focus = TAC_Calling_SOL}
+
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}
+
+		focus = {
+		id = TAC_Patriots_One_All
+		icon = GFX_goal_TAC_Patriots_One_All
+		x = 71
+		y = 9
+		cost = 8
+prerequisite = {focus = TAC_Calling_SOL}
+
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}
+
+		focus = {
+		id = TAC_Nations_Bounty
+		icon = GFX_goal_TAC_Nations_Bounty
+		x = 77
+		y = 9
+		cost = 8
+prerequisite = {focus = TAC_Calling_SOL}
+
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}
+
+		focus = {
+		id = TAC_Reviving_Colossus
+		icon = GFX_goal_TAC_Reviving_Colossus
+		x = 72
+		y = 10
+		cost = 8
+prerequisite = {focus = TAC_Patriots_One_All}
+prerequisite = {focus = TAC_Rebuild_Navy}
+
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}	
+	
+		focus = {
+		id = TAC_Eagle_Soars
+		icon = GFX_goal_TAC_Eagle_Soars
+		x = 76
+		y = 10
+		cost = 8
+prerequisite = {focus = TAC_Nations_Bounty}
+prerequisite = {focus = TAC_Rebuild_Navy}
+
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}
+
+		focus = {
+		id = TAC_Columbia_Reborn
+		icon = GFX_goal_TAC_Columbia_Reborn
+		x = 74
+		y = 11
+		cost = 8
+prerequisite = {focus = TAC_Reviving_Colossus}
+prerequisite = {focus = TAC_Eagle_Soars}
+
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}
+	###Military Projects###	
+	
+		focus = {
+		id = TAC_Refurbish_Fort_Washington
+		icon = GFX_goal_TAC_Refurbish_Washington
+		x = 62
+		y = 6
+		cost = 8
+prerequisite = {focus = TAC_Cleaning_Up_Seattle_Nightmare}
+
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}	
+	
+		focus = {
+		id = TAC_Renaissance_Catchup
+		icon = GFX_goal_TAC_Renaissance_Catchup
+		x = 62
+		y = 7
+		cost = 8
+prerequisite = {focus = TAC_Refurbish_Fort_Washington}
+
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}	
+
+		focus = {
+		id = TAC_Second_To_None
+		icon = GFX_goal_TAC_Second_To_None
+		x = 62
+		y = 9
+		cost = 8
+prerequisite = {focus = TAC_Project_Atlas focus = TAC_Project_Bluewater}
+
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}
+
+		focus = {
+		id = TAC_Wulfpads_Runways
+		icon = GFX_goal_TAC_Runways
+		x = 62
+		y = 10
+		cost = 8
+prerequisite = {focus = TAC_Second_To_None}
+
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}
+
+		focus = {
+		id = TAC_Revolution_High_Seas
+		icon = GFX_goal_TAC_Revolution_Highseas
+		x = 62
+		y = 11
+		cost = 8
+prerequisite = {focus = TAC_Wulfpads_Runways}
+
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}	
+
+		focus = {
+		id = TAC_Project_Atlas
+		icon = GFX_goal_TAC_Project_Atlas
+		x = 60
+		y = 8
+		cost = 8
+prerequisite = {focus = TAC_Renaissance_Catchup}
+mutually_exclusive = {focus = TAC_Project_Bluewater}
+
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}
+
+		focus = {
+		id = TAC_Wild_Blue_Yonder
+		icon = GFX_goal_TAC_Wild_Blue_Yonder
+		x = 59
+		y = 9
+		cost = 8
+prerequisite = {focus = TAC_Project_Atlas}
+
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}	
+	
+		focus = {
+		id = TAC_Continental_Air_Cavalry
+		icon = GFX_goal_TAC_Continental_Air_Cavalry
+		x = 59
+		y = 10
+		cost = 8
+prerequisite = {focus = TAC_Wild_Blue_Yonder}
+
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}
+	
+		focus = {
+		id = TAC_Project_Bigsky
+		icon = GFX_goal_TAC_Project_Big_Sky
+		x = 58
+		y = 11
+		cost = 8
+prerequisite = {focus = TAC_Continental_Air_Cavalry}
+
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}
+	
+		focus = {
+		id = TAC_Project_Bluewater
+		icon = GFX_goal_TAC_Project_Blue_Water
+		x = 64
+		y = 8
+		cost = 8
+prerequisite = {focus = TAC_Renaissance_Catchup}
+mutually_exclusive = {focus = TAC_Project_Atlas}
+
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}	
+
+		focus = {
+		id = TAC_Anchors_Aweigh
+		icon = GFX_goal_TAC_Anchors_Aweigh
+		x = 65
+		y = 9
+		cost = 8
+prerequisite = {focus = TAC_Project_Bluewater}
+
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}
+
+		focus = {
+		id = TAC_JP_Jones_Spirit
+		icon = GFX_goal_TAC_Spirit_JP_Jones
+		x = 65
+		y = 10
+		cost = 8
+prerequisite = {focus = TAC_Anchors_Aweigh}
+
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}	
+	
+		focus = {
+		id = TAC_Deadliest_Weapon
+		icon = GFX_goal_TAC_Deadliest_Weapon
+		x = 66
+		y = 11
+		cost = 8
+prerequisite = {focus = TAC_JP_Jones_Spirit}
+
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}
+
+		focus = {
+		id = TAC_Project_Songbird
+		icon = GFX_goal_TAC_Project_Songbird
+		x = 62
+		y = 12
+		cost = 8
+prerequisite = {focus = TAC_Revolution_High_Seas}
+prerequisite = {focus = TAC_Project_Bigsky focus = TAC_Deadliest_Weapon}
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}
+
+		###Military Buildup###
+		
+		focus = {
+		id = TAC_Supply_Liberty
+		icon = GFX_goal_TAC_Supply_Liberty_Arms
+		x = 84
+		y = 6
+		cost = 8
+prerequisite = {focus = TAC_Cleaning_Up_Seattle_Nightmare}
+
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}
+
+		focus = {
+		id = TAC_Fuel_Fire
+		icon = GFX_goal_TAC_Fuel_Fire
+		x = 84
+		y = 7
+		cost = 8
+prerequisite = {focus = TAC_Cleaning_Up_Seattle_Nightmare }
+
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}
+	
+		focus = {
+		id = TAC_Refuel_Mil_Complex
+		icon = GFX_goal_TAC_Rebuild_Mil_Ind_Complex
+		x = 84
+		y = 8
+		cost = 8
+prerequisite = {focus = TAC_Fuel_Fire}
+
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}	
+	
+		focus = {
+		id = TAC_Revolution_Not_Finished
+		icon = GFX_goal_TAC_Revolution_Not_Finished
+		x = 84
+		y = 9
+		cost = 8
+prerequisite = {focus = TAC_Refuel_Mil_Complex}
+
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}
+
+		focus = {
+		id = TAC_Wake_West
+		icon = GFX_goal_TAC_Wake_West
+		x = 82
+		y = 7
+		cost = 8
+prerequisite = {focus = TAC_Supply_Liberty }
+
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}
+
+		focus = {
+		id = TAC_True_Brave
+		icon = GFX_goal_TAC_True_Brave
+		x = 86
+		y = 7
+		cost = 8
+prerequisite = {focus = TAC_Supply_Liberty }
+
+		available_if_capitulated = no
+
+
+		completion_reward = {
+
+		}
+	}	
+}

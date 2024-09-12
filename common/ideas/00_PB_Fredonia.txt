@@ -1,0 +1,18 @@
+##################
+# SCA IDEAS
+##################
+
+ideas = {
+
+    country = {
+
+		PB_FRE_Rus_Reliance = {
+
+            picture = GFX_idea_PB_FRE_Rus_Reliance
+
+			modifier = {
+			}
+		}
+	}
+
+}

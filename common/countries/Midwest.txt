@@ -1,0 +1,4 @@
+graphical_culture = CAN
+graphical_culture_2d = CAN
+
+color = { 135 206 235 }

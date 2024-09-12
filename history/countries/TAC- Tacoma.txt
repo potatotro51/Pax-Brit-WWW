@@ -1,0 +1,112 @@
+﻿starting_train_buffer = 2
+capital = 836
+
+oob = "TAC_1933"
+
+# Accepted Cultures
+
+set_variable = { PB_main_culture = 144 }
+add_to_array = { PB_accepted_cultures = 144 }
+
+# Country flags
+
+
+
+# Starting tech
+set_technology = { 
+	infantry_rations = 1
+	basic_train = 1
+	infantry_weapons1930 = 1
+	tech_mountaineers = 1
+}
+
+set_stability = 0.5
+set_war_support = 0.1
+
+add_manpower = 35000
+
+set_convoys = 5
+
+add_ideas = {
+	
+	TAC_Robert_Wood_HOG
+	TAC_Hanford_Macnider_FM
+	TAC_Robert_Mccormick_EM
+	TAC_Robert_Minor_IM
+
+	PB_Idea_Untamed_Frontier
+	PB_TAC_Descendants_of_the_Revolution
+	PB_TAC_Memories_Of_Seattle_War
+	PB_TAC_Failed_Experiment
+	PB_TAC_Last_Revolt
+	PB_TAC_Country_Radicals
+
+	PB_Presidential_Dictatorship
+	PB_NI_Revanchism
+	PB_Govidea_Planned_Economy
+	PB_Aristocratic_Democracy
+	PB_State_Press
+	PB_Public_Meetings_Monitored
+	PB_Patriarchal_Society
+	PB_Racial_Hierarchy
+	PB_Law_Secret_Police
+	PB_18_Hour_Workday
+	PB_Basic_Healthcare
+	PB_Basic_Education
+	PB_Basic_Welfare
+	PB_Sociogenetics_Allowed
+	PB_Augmentation_No_Legislation
+	PB_Significant_Poverty
+	PB_Semi_Industrialized
+	PB_Minor_Illiteracy
+	PB_Middling_Consumer_Confidence
+	PB_Great_War_Military
+	PB_Partially_Westernized
+}
+
+set_popularities = {
+	ni = 20
+	ds = 20
+	rc = 20
+	cn = 0
+	lb = 0
+	an = 0
+	ss = 20
+	jc = 20
+}
+
+recruit_character = TAC_clare_hoffman
+recruit_character = TAC_robert_minor
+recruit_character = TAC_Leonard_Wood
+recruit_character = TAC_no_leader
+recruit_character = TAC_robert_e._wood
+recruit_character = TAC_hanford_macnider
+recruit_character = TAC_william_a._chanler
+recruit_character = TAC_john_duke_wayne
+recruit_character = TAC_leslie_lynch_king_jr.
+recruit_character = TAC_alexander_wilson
+recruit_character = TAC_jim_wilson
+recruit_character = TAC_Piermont_M_Hamilton
+recruit_character = TAC_Ulysses_Grant_III
+recruit_character = TAC_Jerauld_Stassen
+recruit_character = TAC_Daniel_Daly
+recruit_character = TAC_Roscoe_B_Woodruff
+recruit_character = TAC_Demas_T_Craw
+recruit_character = TAC_Clifton_B_Cates
+recruit_character = TAC_James_Doyle
+recruit_character = TAC_Daniel_Barbey
+recruit_character = TAC_Herbert_Powell
+recruit_character = TAC_William_Holden
+
+###Focus Completed at start###
+complete_national_focus = TAC_Twilights_Last_Gleaming
+complete_national_focus = TAC_Coup_To_Save_America
+complete_national_focus = TAC_Peace_Order_Security
+complete_national_focus = TAC_State_of_Emergency
+
+set_politics = {
+	ruling_party = rc
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}

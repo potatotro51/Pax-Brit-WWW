@@ -1,0 +1,111 @@
+ideas = {
+
+	head_of_government = { 
+		law = yes
+		TAC_Robert_Wood_HOG = { 
+					
+			removal_cost = -1
+			level = 7
+
+			visible = {
+				original_tag = TAC
+			}
+			
+			allowed_to_remove = { 
+				always = no 
+			}
+
+			available = { 
+				always = no 
+			}
+
+			traits = {
+				PB_ni_trait
+				PB_Political_Architect
+			}
+			
+			cancel_if_invalid = no
+		}
+	}
+	foreign_minister = { 
+		law = yes
+		TAC_Hanford_Macnider_FM = { 
+					
+			removal_cost = -1
+			level = 7
+
+			visible = {
+				original_tag = TAC
+			}
+			
+			allowed_to_remove = { 
+				always = no 
+			}
+
+			available = { 
+				always = no 
+			}
+
+			traits = {
+				PB_rc_trait
+				PB_Military_Man
+			}
+			
+			cancel_if_invalid = no
+		}
+	}
+	economics_minister = { 
+		law = yes
+		TAC_Robert_Mccormick_EM = { 
+					
+			removal_cost = -1
+			level = 7
+
+			visible = {
+				original_tag = TAC
+			}
+			
+			allowed_to_remove = { 
+				always = no 
+			}
+
+			available = { 
+				always = no 
+			}
+
+			traits = {
+				PB_ds_trait
+				PB_Silent_Workhorse
+			}
+			
+			cancel_if_invalid = no
+		}
+	}
+	internal_minister = { 
+		law = yes
+		TAC_Robert_Minor_IM = { 
+					
+			removal_cost = -1
+			level = 7
+
+			visible = {
+				original_tag = TAC
+			}
+			
+			allowed_to_remove = { 
+				always = no 
+			}
+
+			available = { 
+				always = no 
+			}
+
+			traits = {
+				PB_jc_trait
+				PB_Man_of_the_People
+			}
+			
+			cancel_if_invalid = no
+		}
+
+}

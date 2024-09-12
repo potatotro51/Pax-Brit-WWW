@@ -1,0 +1,61 @@
+﻿l_english:
+
+ ##########################
+  # TOP BAR
+  ##########################
+
+    NWA_Country_Desc_Topbar:0 "§YFeatures:§!\n    - Bring Thoreau's ideas forth to North America \n    - Protect the Natural World and Defend the People within it \n    - Create a prosperous future to all those in America \n    - Bring to the people of the Wild West the Utopia they deserve \n\n§YThe State of New Walden§! is a relatively young nation among the Wild West nations.\n\n Born in the aftermath of the Libertalian Rebellions from the American Confederation. The nation of New Walden is primarily founded on the tenets of the philosopher Henry David Throeau and peak Yeoman principles - holding great value to the Natural Order of the world and the true Frontier Spirit. The nation founded by numerous naturalists and socialists who were angered by the Second Renaissance, and the frequent and numerable transgressions against the natural world and the people living in it. Seeking refuge West in hopes of establishing a model colony and an anarchist society initially in Columbia, and later the entire North American Continent. \n\nThe several socialists and naturalists would valiantly uphold the ideals of Trancendentalism, fully believing that they are the final bastion and protectors of the Mother Earth itself, though it should absolutely be noted that while the is the beacon of the community it is isn't the only one. The nation also holds up several socialists principles and populism, being very much one of the few bastions of the people in the Wild West and Northwest Pacific. \n\n Though this nation would show a lot of promise, it would still hold quite a few problems. Alongside the Sons of Liberty attempting to show resistance against the Trancendentalist Government, it would also have to defend itself from constant raids from its surrounding nations hoping to claim the nearby Communes and Settlements. Waldenia would find itself in a rather difficult position to defend itself, due to its stuggle in producing military equipment. New Walden would be caught on the backleg if it were to find itself in either a defensive or offensive war.\n\n Despite these troubles, New Walden maintains its status as an democracy with anarchist principles, and holds their free principles up as a stalwart beacon - never to be destroyed.  \n\n §GHarmony in Diversity Freedom in Nature§! \n\n §YSpecial thanks to§!:Sprinkleskid, Tapir, Gabgame, Nohan, Two Watt, Grixly, and all others in the Pax team who provided the means to create this submod\n\n\n"
+
+  ##########################
+  NWA_ni_party_long:0 "New Walden Renaissance Reversal Party"
+  NWA_ni_party:0 "NWRRP"
+  NWA_rc_party_long:0 "Kibbo Kift Party of New Walden - Green Shirts"
+  NWA_rc_party:0 "KKPNW - Green Shirts"
+  NWA_ds_party_long:0 "Sovereign Roots Party"
+  NWA_ds_party:0 "SRP"
+  NWA_cn_party_long:0 "New Sons of Liberty and Freedom Resistance"
+  NWA_cn_party:0 "NSLF Resistance"  
+  NWA_lb_party_long:0 "Renewal and Equality Party of New Walden"
+  NWA_lb_party:0 "REPNW"  
+  NWA_an_party_long:0 "Freedonian Resistance"
+  NWA_an_party:0 "Freedonian Resistance"
+  NWA_ss_party_long:0 "Transcendentalist Party of New Walden - Moderates"
+  NWA_ss_party:0 "TPNW - Moderates"  
+  NWA_jc_party_long:0 "Radical Transcendentalist Party of New Walden - Anarchists"
+  NWA_jc_party:0 "RTPNW - Anarchists"
+  
+##########################
+# IDEAS
+##########################
+PB_NWA_Trancendentalist_Vanguard:0 "An Army of Planters and Poets"
+    PB_NWA_Trancendentalist_Vanguard_desc:0 "To nobodys surprise, having a nation mostly focused on the aspects of Socialism, Free Art, Poetry, Peace, and Nature doesn't exactly provide much in the depart of defending itself. While, we did of course win our independence against the American Confederation(all be it with much assistance from Freedonian, Meizhou, Mormon, and Tacoman independence fronts), under great appreciations to our Guerilla fighters and People's Militias. We really don't have much in the name of defense. \nOur nation founded on the principles of peace and harmony of nature, under the teachings of the great philospher of Henry David Thoreau, though our neighbors would most definitely like to see the extinction of humble Waldenia. Though the Green shirts under People's Defender Hargraves may be the closest thing we have to a defense force and are certainly doing their best, if we are to maintain our way of life we most definitely need to provide our army the proper attention they deserve."
+
+PB_NWA_Frontier_Democracy:0 "Frontier Democracy"
+    PB_NWA_Frontier_Democracy_desc:0 "The cause of the Libertalian Rebellions being the failure of the Seattle War, New Walden wasn't so keen to be the first nation to jump ship. When Freedonia and Tabernacle took up arms against the American Confederation, the lands now known as Waldenia remained loyal, but once Leonard Wood declared Martial Law and broke the foundations of Democracy - our nation fatefully declared allegiance to our Democratic-Republican Roots. \nNew Walden may not be a shining example for its practices, but it very much and always will have allegiance towards this freedom, and will not give it up without a fight."
+
+PB_NWA_Ghosts_TAC:0 "Ghosts of New Virginia"
+    PB_NWA_Ghosts_TAC_desc:0 "While we may have won our independence against the American Confederation, we are under not quite so free to develop our nation under Thoreau's Ideals. \nThere are Minutemen, and Continental Army resistance fighters still lodged towards the New Virginian Border - acting as so called "freedom fighters" in the name of the hypocritical traitors of Liberty, and while our nation's defenders may actively be attempting to drive them from our lands, they will continue to be a sizeable thorn in our side until they are dealt with."
+
+PB_NWA_Renaissance_Rejection:0 "Rejection of the Renaissance"
+    PB_NWA_Renaissance_Rejection_desc:0 "If the Industrial Revolution brought forth a borderline eradication of Yeoman Principles in the world, a means for capitalist exploitation on the world stage, and vast destruction of the natural world in the name of "progress", then the Industrial Renaissance's desruction brought forth the complete destruction and devestation on an even more leviathan of scales. It is the very opponent of our way of life, and while the other Industrial nations of the world may damn themselves and their workers - it is here in our eden where nature may be sanctified forever. \n\nWhile the nation of New Walden at the moment practices a more tame version of Trancendentalism - despite being under the guises of Anarchism, the rejection of Industrialisation and the Industrial Renaissance is integral to the aspects and ideals of the nation.\nThough under your undertaking, you may either §Gfurther tame it and bring about a more comfortable life for the people of North America§! or §Rbring forth a means to further the flame of Trancendentalism beyond the borders of the West§!"
+
+
+
+PB_NWA_Home_Of_Mother_Anarchy:0 "Home of Mother Anarchy"
+PB_NWA_Home_Of_Mother_Anarchy_desc:0 "Spurred on by the teachings of American transcendentalist Henry David Thorea, New Walden is a state without a state. In laymen terms it houses no government of any kind save for the few community councils littered throughout the nation’s landscape. New Walden has no military, no economy, it has nothing. New Walden is a green anarchistic paradise, one that comes with all the positives and negatives such a sociopolitical theory brings."
+##########################
+# Ministers
+##########################
+  NWA_Anna_Strong_HOG:0 "Anna Louise Strong"
+  NWA_Kirk_Kirkpatrick_FM:0 "George Kirkpatrick"
+  NWA_Elmer_Allison_EM:0 "Elmer Allison"
+  NWA_Benton_MacKaye_IM:0 "Benton MacKaye"
+
+
+###EVENTS
+WWW_NWA.1.t:0 "Cabot Announces his Desire to Retire"
+WWW_NWA.1.desc:0 "Richard Clarke Cabot has came to the people of our nation under several assembies to announce his desire to retire. Cabot holding rather steadily the nations devout views of Henry David Throeau, however, he has expressed his desires to desires to focus instead on his biological research. \n\nThe communes of New Walden have expressed their understanding, and are rather grateful in the great opportunity to take part in electing a new leader. \n\nCabot, who has been instrumental in guiding the community towards self-sufficiency and communal living - his decision to step down comes after years of dedicated service to the principles of voluntary cooperation and environmental stewardship that define life within the Communes.\n\nAs news of Cabot's retirement spreads throughout neighboring settlements and beyond, speculation abounds regarding who will step into the leadership vacuum left by his departure. For now, residents of the Communes remain steadfast in their commitment to the principles that have defined their way of life, eager to navigate this period of transition with the same cooperative spirit that has characterized their community - Only one question remains. \n\nWho will succeed him."
+WWW_NWA.1.a:0 "Tachibana's Ideas Inspire the Former New Virginians"
+WWW_NWA.1.b:0 "John Hargrave's Green Shirts manage to take the Election"
+WWW_NWA.1.c:0 "Anna Louise Strongs Offers Promising Changes. Let's Give Her a Try"
+WWW_NWA.1.d:0 "Benton MacKaye Will Bring Trancendentalism to the Modern Age"

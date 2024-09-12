@@ -1,0 +1,65 @@
+##############################
+# United Commonwealth Events
+##############################
+
+add_namespace = WWW_NWA
+
+country_event = {
+	id = WWW_NWA.1
+	title = WWW_NWA.1.t
+	desc = WWW_NWA.1.desc
+	
+	picture = GFX_report_PB_Cabot
+	
+	fire_only_once = yes
+	is_triggered_only = yes
+
+	option = { 
+		name = WWW_NWA.1.a
+
+		set_politics = {
+			ruling_party = ni
+			elections_allowed = no
+			last_election = "1933.12.17"
+			election_frequency = 48
+		}
+
+	}
+		option = { 
+		name = WWW_NWA.1.b
+
+		set_politics = {
+			ruling_party = rc
+			elections_allowed = no
+			last_election = "1933.12.17"
+			election_frequency = 48
+		}
+
+	}
+			option = { 
+		name = WWW_NWA.1.c
+
+	hidden_effect = {
+	kill_country_leader = yes
+	
+				create_country_leader = {
+				name = "Anna Louise Strong"
+				desc = ""
+				picture = "gfx/leaders/NWA/Portrait_NWA_Anne_Louise_Strong.dds"
+				expire = "1965.1.1"
+				ideology = JC_VARIANT_08
+			}
+		}
+	}
+			option = { 
+		name = WWW_NWA.1.d
+
+		set_politics = {
+			ruling_party = lb
+			elections_allowed = no
+			last_election = "1933.12.17"
+			election_frequency = 48
+		}
+
+	}
+}

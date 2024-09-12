@@ -1,0 +1,162 @@
+spriteTypes = {
+###TACOMA
+	SpriteType = {
+		name = "GFX_goal_TAC_Modernize_Continental_Army"
+		texturefile = "gfx/interface/goals/TAC/TAC_Modernize_Continental_Army.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_goal_TAC_Cleanup_Seattle"
+		texturefile = "gfx/interface/goals/TAC/TAC_Cleanup_Seattle.dds"
+	}	
+	
+	SpriteType = {
+		name = "GFX_goal_TAC_Columbias_Call"
+		texturefile = "gfx/interface/goals/TAC/TAC_Columbias_Call.dds"
+	}	
+	
+	SpriteType = {
+		name = "GFX_goal_TAC_Freedom_Price"
+		texturefile = "gfx/interface/goals/TAC/TAC_Freedom_Price.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_goal_TAC_Fill_Vacant_Ranks"
+		texturefile = "gfx/interface/goals/TAC/TAC_Fill_Vacant_Ranks.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_goal_TAC_Calling_SOL"
+		texturefile = "gfx/interface/goals/TAC/TAC_Calling_SOL.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_goal_TAC_Patriots_One_All"
+		texturefile = "gfx/interface/goals/TAC/TAC_Patriots_One_All.dds"
+	}	
+	
+	SpriteType = {
+		name = "GFX_goal_TAC_Rebuild_Continental_Navy"
+		texturefile = "gfx/interface/goals/TAC/TAC_Rebuild_Continental_Navy.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_goal_TAC_Nations_Bounty"
+		texturefile = "gfx/interface/goals/TAC/TAC_Nations_Bounty.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_goal_TAC_Reviving_Colossus"
+		texturefile = "gfx/interface/goals/TAC/TAC_Reviving_Colossus.dds"
+	}	
+	
+	SpriteType = {
+		name = "GFX_goal_TAC_Eagle_Soars"
+		texturefile = "gfx/interface/goals/TAC/TAC_Eagle_Soars.dds"
+	}	
+	
+	SpriteType = {
+		name = "GFX_goal_TAC_Columbia_Reborn"
+		texturefile = "gfx/interface/goals/TAC/TAC_Columbia_Reborn.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_goal_TAC_Refurbish_Washington"
+		texturefile = "gfx/interface/goals/TAC/TAC_Refurbish_Washington.dds"
+	}	
+	
+	SpriteType = {
+		name = "GFX_goal_TAC_Renaissance_Catchup"
+		texturefile = "gfx/interface/goals/TAC/TAC_Renaissance_Catchup.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_goal_TAC_Project_Atlas"
+		texturefile = "gfx/interface/goals/TAC/TAC_Project_Atlas.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_goal_TAC_Project_Blue_Water"
+		texturefile = "gfx/interface/goals/TAC/TAC_Project_Blue_Water.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_goal_TAC_Wild_Blue_Yonder"
+		texturefile = "gfx/interface/goals/TAC/TAC_Wild_Blue_Yonder.dds"
+	}	
+	
+	SpriteType = {
+		name = "GFX_goal_TAC_Second_To_None"
+		texturefile = "gfx/interface/goals/TAC/TAC_Second_To_None.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_goal_TAC_Anchors_Aweigh"
+		texturefile = "gfx/interface/goals/TAC/TAC_Anchors_Aweigh.dds"
+	}
+	SpriteType = {
+		name = "GFX_goal_TAC_Continental_Air_Cavalry"
+		texturefile = "gfx/interface/goals/TAC/TAC_Continental_Air_Cavalry.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_goal_TAC_Runways"
+		texturefile = "gfx/interface/goals/TAC/TAC_Runways.dds"
+	}	
+
+	SpriteType = {
+		name = "GFX_goal_TAC_Spirit_JP_Jones"
+		texturefile = "gfx/interface/goals/TAC/TAC_Spirit_JP_Jones.dds"
+	}	
+	
+	SpriteType = {
+		name = "GFX_goal_TAC_Project_Big_Sky"
+		texturefile = "gfx/interface/goals/TAC/TAC_Project_Big_Sky.dds"
+	}	
+	
+	SpriteType = {
+		name = "GFX_goal_TAC_Revolution_Highseas"
+		texturefile = "gfx/interface/goals/TAC/TAC_Revolution_Highseas.dds"
+	}	
+
+	SpriteType = {
+		name = "GFX_goal_TAC_Deadliest_Weapon"
+		texturefile = "gfx/interface/goals/TAC/TAC_Deadliest_Weapon.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_goal_TAC_Project_Songbird"
+		texturefile = "gfx/interface/goals/TAC/TAC_Project_Songbird.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_goal_TAC_Supply_Liberty_Arms"
+		texturefile = "gfx/interface/goals/TAC/TAC_Supply_Liberty_Arns.dds"
+	}	
+	
+	SpriteType = {
+		name = "GFX_goal_TAC_Fuel_Fire"
+		texturefile = "gfx/interface/goals/TAC/TAC_Fuel_Fire.dds"
+	}	
+	
+	SpriteType = {
+		name = "GFX_goal_TAC_True_Brave"
+		texturefile = "gfx/interface/goals/TAC/TAC_True_Brave.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_goal_TAC_Rebuild_Mil_Ind_Complex"
+		texturefile = "gfx/interface/goals/TAC/TAC_Rebuild_Mil_Ind_Complex.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_goal_TAC_Revolution_Not_Finished"
+		texturefile = "gfx/interface/goals/TAC/TAC_Revolution_Not_Finished.dds"
+	}	
+	
+	SpriteType = {
+		name = "GFX_goal_TAC_Wake_West"
+		texturefile = "gfx/interface/goals/TAC/TAC_Wake_West.dds"
+	}		
+}
+
